@@ -69,9 +69,9 @@
 
 <div class="container">
   <h1>Golf Event RSVP</h1>
-  <p><strong>Date:</strong> Saturday, July 20, 2025<br />
-     <strong>Time:</strong> 9:00 AM<br />
-     <strong>Location:</strong> Riverside Golf Course</p>
+  <p><strong>Date:</strong> Wednesday, July 9, 2025<br />
+     <strong>Time:</strong> 4:30 PM<br />
+     <strong>Location:</strong> Tapawingo Golf Course</p>
   
   <!-- Event flyer image -->
   <img src="https://example.com/your-golf-flyer.jpg" alt="Golf Event Flyer" />
