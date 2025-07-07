@@ -102,6 +102,7 @@
 
   form.addEventListener('submit', function(e) {
     e.preventDefault();
+    <img src="bawkers-golf-poster.png" alt="Bawkers Golf Poster" style="max-width:100%; height:auto;">
 
     // In real use, you would send the data to a backend or Google Sheet here.
     // For this demo, just show thank you message.
